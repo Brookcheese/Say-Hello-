@@ -163,7 +163,8 @@ th {
 }
 
 header {
-  width:300px;
+  width:330px;
+  padding-left:20px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
