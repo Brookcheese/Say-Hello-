@@ -57,7 +57,7 @@
 body {
   background-color: #fff;
   padding:50px;
-  padding-top:10px;
+  /*padding-top:10px;*/
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
@@ -249,8 +249,8 @@ hr {
 footer {
   width:270px;
   float:left;
-  position:fixed;
-  bottom:20px;
+  /*position:fixed;
+  bottom:20px;*/
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
