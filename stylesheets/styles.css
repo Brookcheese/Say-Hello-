@@ -113,7 +113,7 @@ a:hover small {
 
 .wrapper {
   width:860px;
-  margin:auto;
+  margin:0 auto;
 }
 
 blockquote {
@@ -163,7 +163,7 @@ th {
 }
 
 header {
-  max-width:300px;
+  max-width:340px;
   float:left;
   position:fixed;
   padding-top:20px;
@@ -230,12 +230,14 @@ header ul a strong {
 }
 
 section {
-  width:500px;
-  float:right;
+  width:600px;
+  float:left;
   padding-top:50px;
   padding-bottom:50px;
 }
-
+img{
+  width:500px;
+}
 small {
   font-size:11px;
 }
