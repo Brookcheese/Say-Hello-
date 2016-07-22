@@ -330,7 +330,7 @@ footer {
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgb(255, 201, 201);
+  color: rgba(255, 255, 255,0.7);
   background-color: rgb(255, 201, 201);
   border-color: rgba(255, 255, 255, 0.2);
   border-style: solid;
