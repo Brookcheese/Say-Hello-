@@ -163,7 +163,7 @@ th {
 }
 
 header {
-  max-width:340px;
+  width:340px;
   float:right;
   position:fixed;
   padding-top:20px;
@@ -230,7 +230,7 @@ header ul a strong {
 }
 
 section {
-  width:600px;
+  width:400px;
   float:right;
   padding-top:50px;
   padding-bottom:50px;
