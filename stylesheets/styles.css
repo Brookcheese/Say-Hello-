@@ -166,6 +166,7 @@ header {
   width:340px;
   float:left;
   position:fixed;
+  padding-top:20px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
