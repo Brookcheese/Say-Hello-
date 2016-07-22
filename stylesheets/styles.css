@@ -113,7 +113,7 @@ a:hover small {
 
 .wrapper {
   width:860px;
-  margin:0 auto;
+  margin:0;
 }
 
 blockquote {
@@ -159,11 +159,11 @@ th {
 
 .img-centrar {
   max-width:140px;
-  margin-left:72px;
+  /*margin-left:72px;*/
 }
 
 header {
-  width:320px;
+  width:340px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
