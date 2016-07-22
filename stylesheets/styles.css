@@ -157,16 +157,13 @@ th {
   color:#444;
 }
 
-img{
-  max-width:100px;
-}
 .img-centrar {
   max-width:140px;
   margin-left:72px;
 }
 
 header {
-  width:298px;
+  width:300px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
