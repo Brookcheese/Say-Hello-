@@ -57,7 +57,7 @@
 body {
   background-color: #fff;
   padding:50px;
-  padding-top:5px;
+  padding-top:10px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
@@ -158,15 +158,18 @@ th {
   color:#444;
 }
 
+img{
+  max-width:140px;
+}
 .img-centrar {
   max-width:140px;
   margin-left:72px;
 }
 
 header {
-  width:290px;
+  width:295px;
   float:left;
-  /*position:fixed;*/
+  position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
