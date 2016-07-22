@@ -164,7 +164,7 @@ th {
 
 header {
   width:340px;
-  float:right;
+  float:left;
   position:fixed;
   padding-top:20px;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -230,8 +230,8 @@ header ul a strong {
 }
 
 section {
-  width:400px;
-  float:left;
+  width:500px;
+  float:right;
   padding-top:50px;
   padding-bottom:50px;
 }
