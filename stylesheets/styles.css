@@ -163,7 +163,7 @@ th {
 }
 
 header {
-  width:440px;
+  max-width:300px;
   float:left;
   position:fixed;
   padding-top:20px;
