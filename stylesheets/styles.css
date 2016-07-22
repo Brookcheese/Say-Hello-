@@ -158,8 +158,9 @@ th {
   color:#444;
 }
 
-img {
-  max-width:50%;
+img-centrar {
+  max-width:140px;
+  margin-left:72px;
 }
 
 header {
