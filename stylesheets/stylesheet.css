@@ -9,6 +9,12 @@ body {
   line-height: 1.5;
   color: #606c71; }
 
+/*añadido para modificar párrafos*/
+
+p{
+  text-align:justify;
+}
+
 a {
   color: #1e6bb8;
   text-decoration: none; }
