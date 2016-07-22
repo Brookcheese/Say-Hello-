@@ -81,7 +81,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:34px;
 }
 
 h2 {
@@ -164,8 +164,7 @@ th {
 }
 
 header {
-  width:360px;
-  padding-left:20px;
+  width:320px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
