@@ -57,7 +57,7 @@
 body {
   background-color: #fff;
   padding:50px;
-  /*padding-top:10px;*/
+  padding-top:5px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
@@ -166,7 +166,7 @@ th {
 header {
   width:290px;
   float:left;
-  position:fixed;
+  /*position:fixed;*/
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
